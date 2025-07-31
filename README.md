@@ -1,30 +1,40 @@
-🚗 Car Data Analysis Dashboard (Power BI + Python)
-📊 Overview
-This project presents a comprehensive analysis of a high-end car dataset using Power BI for interactive data visualization and Python for data preprocessing and exploratory data analysis (EDA). The goal was to uncover key automotive insights across brands, engine types, fuel usage, and car performance metrics.
+# 🚘 Car Data Analysis | Power BI + Python
 
-🛠️ Tools & Technologies
-Power BI – for dashboard creation and visual storytelling
+A data-driven project that combines **Python** for exploratory data analysis (EDA) and **Power BI** for interactive visualizations. This project explores a dataset of luxury and performance cars to uncover insights about brand popularity, engine performance, fuel types, and top-speed vehicles.
 
-Python (Pandas, Matplotlib, Seaborn) – for EDA and data cleaning
+---
 
-Jupyter Notebook – for preprocessing and Python visuals
+## 📁 Project Files
 
-Data Source – Car specifications and performance dataset (including price, speed, engine, brand, fuel type)
+- `cars.ipynb` – Python notebook for data cleaning, analysis, and static visuals  
+- `car_dashboard` – Power BI report/dashboard screenshots
+---
 
-📌 Key Insights
-Brand Distribution: Nissan, Volkswagen, and Porsche dominate the dataset in terms of car count.
+## 🔍 Key Insights
 
-Sum of Prices: Total market value of the cars analyzed is 167 million.
+- **Most Common Brands**: Nissan, Volkswagen, and Porsche dominate the dataset  
+- **Top Speed Leaders**: Bugatti models (Chiron, Chiron Sport, Bolide) are the fastest  
+- **Engine Performance**: V8 engines have the highest average speed  
+- **BMW Focus**: Includes a detailed breakdown of BMW fuel types (Petrol, Diesel, Hybrid, Electric)  
+- **Brand Comparison**: Side-by-side engine distribution between BMW and Mercedes  
 
-Fuel Type Trends: BMWs are predominantly petrol-based (870), with electric and hybrid models also present.
+---
 
-Top Fastest Cars: Highlighted cars include Bugatti Chiron, Chiron Sport, and Bolide.
+## 📊 Tools & Technologies
 
-Engine Performance: V8 engines lead in average total speed, followed by V6.
+- **Python**: `pandas`, `matplotlib`, `seaborn` for data analysis and visualization  
+- **Power BI**: for building the dashboard and interactive storytelling  
+- **Jupyter Notebook**: for step-by-step data exploration  
 
-Brand Comparison: BMW vs MERCEDES engine breakdown provided (I4, I6, Electric, etc.).
+---
 
-📌 Notes
-Visuals and data are intended for educational and portfolio purposes.
+## 💡 Motivation
 
-This dashboard is read-only to preserve design and logic integ
+This project was built to bridge **technical analysis** in Python with **business reporting** in Power BI. It demonstrates end-to-end skills from data preprocessing to delivering a polished dashboard. It was built as a final project during my intern training at Telecom We.
+
+---
+
+## 📌 Notes
+
+- Data used is meant for educational and portfolio purposes  
+- The dashboard is view-only to preserve formatting and visuals  
